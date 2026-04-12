@@ -61,11 +61,27 @@ git clone https://github.com/ansuelele/laoluo.git ~/.workbuddy/skills/laoluo
 
 ## Skill 文件说明
 
+```
+laoluo/
+├── SKILL.md                        # 核心人格定义、说话风格、播客主持框架
+├── references/
+│   └── laoluo-wisdom.md           # 经典语录、修辞框架、话术模板、选题库
+├── examples/
+│   ├── podcast-script-demo.md     # 完整播客脚本示例
+│   └── interview-questions-demo.md # 访谈问题库模板
+├── CHANGELOG.md                   # 版本更新记录
+├── LICENSE                        # MIT 开源协议
+├── .gitignore
+└── README.md
+```
+
 | 文件 | 说明 |
 |------|------|
 | `SKILL.md` | 核心人格定义、说话风格规则、播客主持框架 |
 | `references/laoluo-wisdom.md` | 经典语录、修辞框架、话术模板、访谈问题库 |
-| `README.md` | 本文件 |
+| `examples/` | 完整使用示例，可直接参考或改写 |
+| `CHANGELOG.md` | 版本历史 |
+| `LICENSE` | MIT 协议 |
 
 ---
 
